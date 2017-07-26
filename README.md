@@ -10,11 +10,11 @@
 ----
 #####1创建仓库
 #####2执行命令
-      git init
-      git add README.md
-      git commit -m "first commit"
-      git remote add origin https://github.com/BlankCat/Member.git
-      git push -u origin master
+#####git init
+#####git add README.md
+#####git commit -m "first commit"
+#####git remote add origin https://github.com/BlankCat/Member.git
+#####git push -u origin master
 
 
 
