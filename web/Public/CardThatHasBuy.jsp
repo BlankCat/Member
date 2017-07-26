@@ -10,10 +10,10 @@
 <head>
 <meta charset="UTF-8">
 <title>已购买的点卡</title>
-<script src="eui/jquery.min.js"></script>
-<script src="eui/jquery.easyui.min.js"></script>
-<link rel="stylesheet" href="eui/themes/icon.css">
-<link rel="stylesheet" href="eui/themes/default/easyui.css">
+<script src="<%=basePath%>/eui/jquery.min.js"></script>
+<script src="<%=basePath%>/eui/jquery.easyui.min.js"></script>
+<link rel="stylesheet" href="<%=basePath%>/eui/themes/icon.css">
+<link rel="stylesheet" href="<%=basePath%>/eui/themes/default/easyui.css">
 </head>
 <style type="text/css">
 #fm {

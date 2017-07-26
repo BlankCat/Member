@@ -12,10 +12,10 @@
 <html lang="zh-cn">
 <head>
 <title>兑换积分</title>
-<script src="eui/jquery.min.js"></script>
-<script src="eui/jquery.easyui.min.js"></script>
-<link rel="stylesheet" href="eui/themes/icon.css">
-<link rel="stylesheet" href="eui/themes/default/easyui.css">
+<script src="<%=basePath%>/eui/jquery.min.js"></script>
+<script src="<%=basePath%>/eui/jquery.easyui.min.js"></script>
+<link rel="stylesheet" href="<%=basePath%>/eui/themes/icon.css">
+<link rel="stylesheet" href="<%=basePath%>/eui/themes/default/easyui.css">
 <style type="text/css">
 #fm {
 	margin: 0;

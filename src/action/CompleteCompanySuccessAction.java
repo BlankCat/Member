@@ -15,7 +15,7 @@ import com.google.gson.JsonObject;
 import dao.AddMemberMessageDao;
 import dao.Maps;
 
-@WebServlet(name = "CompleteCompanySuccessAction", urlPatterns = "/completeCompanySuccessAction")
+@WebServlet(name = "CompleteCompanySuccessAction", urlPatterns = "/CompanyMember/completeCompanySuccessAction")
 public class CompleteCompanySuccessAction extends HttpServlet {
 	protected void doPost(HttpServletRequest request,
 			HttpServletResponse response) throws ServletException, IOException {
